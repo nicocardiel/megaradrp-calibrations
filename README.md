@@ -31,7 +31,7 @@ instrument status during two different epochs:
 If you use this dataset in your processing of MEGARA data, please cite the
 reference given in the Zenodo link below:
 
-https://zenodo.org/record/2270518
+https://zenodo.org/record/2233591
 
 For reproducibility purposes, please cite the exact version of the dataset you
 are using.
