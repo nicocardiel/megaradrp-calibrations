@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2270518.svg)](https://doi.org/10.5281/zenodo.2270518)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2233591.svg)](https://doi.org/10.5281/zenodo.2233591)
 
 ## About ##
 This dataset contains calibration files used by the MEGARA data reduction
